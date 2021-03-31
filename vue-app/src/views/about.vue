@@ -14,6 +14,11 @@
             Code in GitHub
           </a>
         </li>
+        <li>
+          <a href="index.html">
+            Code in GitHub
+          </a>
+        </li>
       </ul>
     </div>
   </div>
